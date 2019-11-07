@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hello World and Coffee
+title: Hello World and Coffees
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
